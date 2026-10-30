@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<libraries>
+  <library>
+    <location>thirdparty/jsoneditor</location>
+    <name>JSON Editor</name>
+    <description>Web-based editor to view, edit and format JSON (full build with the Ace code editor: script, stylesheet and icons), used for the JSON custom field. The source map comment was removed from the script.</description>
+    <version>10.4.3</version>
+    <license>Apache-2.0</license>
+    <licenseversion>2.0</licenseversion>
+    <repository>https://github.com/josdejong/jsoneditor</repository>
+    <copyrights>
+      <copyright>2011-2026 Jos de Jong</copyright>
+    </copyrights>
+  </library>
+</libraries>
