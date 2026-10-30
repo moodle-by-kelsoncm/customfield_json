@@ -1,0 +1,4 @@
+docs/_build/
+_site/
+dist/
+*.zip
